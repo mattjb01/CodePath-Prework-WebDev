@@ -41,8 +41,6 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 <img src="http://g.recordit.co/0uQ8IvDcpR.gif" width=250>
 <img src="http://g.recordit.co/VOs1SVBy95.gif" width=250>
-![http://g.recordit.co/0uQ8IvDcpR.gif]
-![http://g.recordit.co/VOs1SVBy95.gif]
 
 
 
